@@ -1,4 +1,14 @@
-div{
+.blog{
     background-color: crimson;
     color: darkblue;
+    border: 50px solid yellow
+    border-radius:20in ;
+    margin: 100px 50px 100px 50px;
+    padding: 50px 20px 50px 20px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
 }
